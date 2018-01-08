@@ -1,7 +1,12 @@
 ### react.js 연습코드
 
 아래 링크의 강의를 보면서 연습한 코드입니다.
+
 [노마드 리액트 연습 강의](https://academy.nomadcoders.co/p/reactjs-fundamentals)
+
+[배포 페이지 링크](https://singular-steve.github.io/react-movie-page/)
+
+
 
 > 연습한 내용
 
